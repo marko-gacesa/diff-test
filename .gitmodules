@@ -1,4 +1,0 @@
-[submodule "appctx"]
-	path = appctx
-	url = git@github.com:marko-gacesa/appctx.git
-	branch = lisence
